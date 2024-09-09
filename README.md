@@ -1,3 +1,6 @@
+# Disclaimer
+This fork was created to resolve dependency conflicts with numba. In all other ways it is a carbon copy of the original.
+
 # Whisper
 
 [[Blog]](https://openai.com/blog/whisper)
